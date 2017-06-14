@@ -1,0 +1,22 @@
+# /robots.txt file for http://dublincore.org/
+# mail webteam@admin.dublincore.org for constructive criticism
+
+User-agent: *           # directed to all spiders
+
+Disallow: /application/assets
+Disallow: /application/config
+Disallow: /application/library
+Disallow: /application/data/ads
+Disallow: /application/data/cache
+Disallow: /application/data/database
+Disallow: /application/data/img
+Disallow: /application/data/logs
+Disallow: /application/data/uploads
+Disallow: /application/skins
+Disallow: /application/views/admin
+Disallow: /application/views/errors
+Disallow: /application/views/inc
+Disallow: /system
+
+User-agent: Linbot # override 
+Allow: /
