@@ -1,0 +1,5 @@
+0:un-categorized:
+1:Cup News:cup_news.gif
+2:Club News:club_news.gif
+3:Match News:match_news.gif
+4:Man Of The Match:man_of_the_match.gif
